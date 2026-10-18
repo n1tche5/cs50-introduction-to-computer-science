@@ -27,7 +27,7 @@ This space tracks my academic progression, featuring my implementations for week
 - **Week 7: SQL** 🗄
   * Designing, querying, and managing relational databases.
 - **Optional Week 7.5: Artificial Intelligence** 🧠
-    * Teaches the OpenAI library (Python) and basics of Artificial intelligence (Generative AI, Prompt Enginnering, Copilot, Decision Trees, Machine learning, Deep learning and LLMs)
+    * Teaches the OpenAI library (Python) and basics of Artificial intelligence (Generative AI, Prompt Enginnering, Copilot, Decision Trees, Machine learning, Deep learning and LLMs).
     Although it is basics, it gives a good idea about Artificial Intelligence
 - **Week 8: HTML, CSS, JavaScript** 🌐
   * Front-end web development, building UI layouts with CSS and Bootstrap, and adding browser interactivity.
